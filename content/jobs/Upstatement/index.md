@@ -1,10 +1,10 @@
 ---
 date: '2018-05-14'
-title: 'Engineer'
-company: 'Upstatement'
-location: 'Boston, MA'
-range: 'May 2018 - Present'
-url: 'https://www.upstatement.com/'
+title: 'Full Stack Engineer'
+company: 'Privacy Tech Lab'
+location: 'Middletown, CT'
+range: 'Feburary 2022 - Present'
+url: 'https://privacytechlab.org/'
 ---
 
 - Write modern, performant, maintainable code for a diverse array of client and internal projects

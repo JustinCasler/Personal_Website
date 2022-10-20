@@ -1,9 +1,9 @@
 ---
 date: '2'
-title: 'Spotify Profile'
-cover: './demo.png'
-github: 'https://github.com/bchiang7/spotify-profile'
-external: 'https://spotify-profile.herokuapp.com/'
+title: 'Crossword Web App'
+cover: './crossword.png'
+github: 'https://github.com/JustinCasler/WesCrossWord'
+external: 'https://github.com/JustinCasler/WesCrossWord'
 tech:
   - React
   - Styled Components

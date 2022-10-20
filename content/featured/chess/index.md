@@ -1,9 +1,9 @@
 ---
 date: '3'
-title: 'Build a Spotify Connected App'
-cover: './course-card.png'
-external: 'https://www.newline.co/courses/build-a-spotify-connected-app'
-cta: 'https://www.newline.co/courses/build-a-spotify-connected-app'
+title: 'Python Chess Game'
+cover: './chess.png'
+external: 'https://github.com/JustinCasler/PyChess'
+cta: 'https://github.com/JustinCasler/PyChess'
 tech:
   - React
   - Express
