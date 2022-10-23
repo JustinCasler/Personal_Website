@@ -5,12 +5,8 @@ cover: './chess.png'
 external: 'https://github.com/JustinCasler/PyChess'
 cta: 'https://github.com/JustinCasler/PyChess'
 tech:
-  - React
-  - Express
-  - Spotify API
-  - Styled Components
+  - Python
+  - AI techniques
 ---
 
-Having struggled with understanding how the Spotify OAuth flow works, I made the course I wish I could have had.
-
-Unlike tutorials that only cover a few concepts and leave you with half-baked GitHub repositories, this course covers everything from explaining the principles of REST APIs to implementing Spotify's OAuth flow and fetching API data in a React app. By the end of the course, you’ll have an app deployed to the internet you can add to your portfolio.
+This is a chess game written in python using PyGame. There is a chess engine built in written with basic AI priciples. To minimize waiting time, the engine uses depth limited search on the game tree so it plays only at around a 1600 rating.

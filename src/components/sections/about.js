@@ -135,31 +135,39 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              I’m software engineer specializing in backend development and building eleganet, well
-              designed code. I'm currently a student and Wesleyan University double majoring in
-              Computer Science and Physics and minoring in Data Analyisis. I'm currently working at
-              Privacy tech lab where I write and debug front and backend code, train our ML models,
-              and am currently running our usability study.
+              I grew up in Boston, MA, and am currently a student @{' '}
+              <a href="https://www.wesleyan.edu/"> Wesleyan University. </a>
             </p>
 
             <p>
-              Fast-forward to today, and I’ve had the privilege of working at{' '}
-              <a href="https://us.mullenlowe.com/">an advertising agency</a>,{' '}
-              <a href="https://starry.com/">a start-up</a>,{' '}
-              <a href="https://www.apple.com/">a huge corporation</a>, and{' '}
-              <a href="https://scout.camd.northeastern.edu/">a student-led design studio</a>. My
-              main focus these days is building accessible, inclusive products and digital
-              experiences at <a href="https://upstatement.com/">Upstatement</a> for a variety of
-              clients.
+              As far back as I can remember, I've always found puzzles compelling. I hated that I
+              couldn't beat the computer at chess, and even though I'm no good at word games, I
+              would try and complete the morning crossword every day (
+              <em> my win % is embarrassingly low </em>). That led me to my career as a software
+              engineer and to both my majors and where I'm constantly presented with puzzles.
             </p>
 
             <p>
-              I also recently{' '}
-              <a href="https://www.newline.co/courses/build-a-spotify-connected-app">
-                launched a course
-              </a>{' '}
-              that covers everything you need to build a web app with the Spotify API using Node
-              &amp; React.
+              Fast forwarding to today, I'm currently working at the{' '}
+              <a href="https://privacytechlab.org/"> Privacy tech lab </a>. As we are a small team,
+              I have a variety of roles. I...
+              <ul className="skills-list">
+                <li> Write and debug front and backend code</li>
+                <li> Create data sets for and help train our ML models</li>
+                <li> Design and run our usability study </li>
+                <li> Maintain and update our database technology </li>
+              </ul>
+            </p>
+
+            <p>
+              When I'm not in class or coding, I'm likely out doing something active. Depending on
+              the season, I like to spend my free time running, hiking, playing soccer, or pick-up
+              basketball. If the weather doesn't permit, then I'll be inside cooking pan-fried pesto
+              gnocchi or baking my signature dessert,{' '}
+              <a href="https://basicswithbabish.co/basicsepisodes/treslechescake">
+                {' '}
+                tres leches cake.
+              </a>
             </p>
 
             <p>Here are a few technologies I’ve been working with recently:</p>

@@ -58,17 +58,14 @@ const Hero = () => {
     return () => clearTimeout(timeout);
   }, []);
 
-  const one = <h1>Hi! my name is</h1>;
+  const one = <h1>Hi! My name is</h1>;
   const two = <h2 className="big-heading">Justin Casler.</h2>;
-  const three = <h3 className="big-heading">I enjoy devloping tech.</h3>;
+  const three = <h3 className="big-heading">I enjoy developing tech.</h3>;
   const four = (
     <>
       <p>
-        I’m software engineer specializing in backend development and building eleganet, well
-        designed code. I'm currently a student and Wesleyan University double majoring in Computer
-        Science and Physics and minoring in Data Analyisis. I'm currently working at Privacy tech
-        lab where I write and debug front and backend code, train our ML models, and am currently
-        running our usability study.
+        I’m a software engineer specializing in backend development and building elegant, performant
+        code.
       </p>
     </>
   );

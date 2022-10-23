@@ -1,5 +1,5 @@
 ---
-date: '2018-05-14'
+date: '2022-01-01'
 title: 'Full Stack Engineer'
 company: 'Privacy Tech Lab'
 location: 'Middletown, CT'

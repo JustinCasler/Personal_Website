@@ -1,7 +1,7 @@
 ---
 date: '2016-12-21'
-title: 'Software Engineer Co-op'
-company: 'Starry'
+title: 'Course Assistant'
+company: 'Wesleyan University'
 location: 'Boston, MA'
 range: 'July - December 2016'
 url: 'https://starry.com/'
