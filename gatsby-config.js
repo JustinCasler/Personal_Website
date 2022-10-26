@@ -4,10 +4,11 @@ module.exports = {
   siteMetadata: {
     title: 'Justin Casler',
     description: 'Justin Casler is a software engineer who specializes in full stack development.',
-    siteUrl: 'https://brittanychiang.com', // No trailing slash allowed!
+    siteUrl: 'https://justincasler.com', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '@bchiang7',
   },
+  pathPrefix: '/Personal_Website',
   plugins: [
     `gatsby-plugin-react-helmet`,
     `gatsby-plugin-styled-components`,

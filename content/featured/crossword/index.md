@@ -11,4 +11,4 @@ tech:
   - Git
 ---
 
-A fully functioning crossword mini web app. Has features for hints, checking correctness, and keeping track of the faster puzzelers for that particular crossword. It will be added to my school's online newspaper during the upcoming redesign of the website.
+A fully functioning crossword mini web app. It has features for hints, checking correctness, and keeping track of the fastest puzzlers for that particular crossword. It will be added to my school's online newspaper during the upcoming redesign of the website.
