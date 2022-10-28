@@ -12,4 +12,4 @@ company: 'Privacy Tech Lab'
 showInProjects: true
 ---
 
-My team recieved the Google Research Scholar Award deeming our privacy product to be innovative and of intrest to the google privacy team.
+My team recieved the Google Research Scholar Award deeming our privacy product to be innovative and of interest to the google privacy team.

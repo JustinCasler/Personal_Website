@@ -140,11 +140,12 @@ const About = () => {
             </p>
 
             <p>
-              As far back as I can remember, I've always found puzzles compelling. I hated that I
-              couldn't beat the computer at chess, and even though I'm no good at word games, I
-              would try and complete the morning crossword every day (
-              <em> my win % is embarrassingly low </em>). That led me to my career as a software
-              engineer and to both my majors and where I'm constantly presented with puzzles.
+              As far back as I can remember, I've always enjoyed the challenge of puzzles. I started
+              drawing mazes in kindergarten, tried to become a Rubik's cube champion in elementary
+              school, spent many hours playing chess on the computer in middle school, and recently
+              I've been addicted to Wordle ( <em> my win % is embarrassingly low </em>). That led me
+              to my career as a software engineer and computer science and physics major, where I'm
+              constantly solving puzzles.
             </p>
 
             <p>

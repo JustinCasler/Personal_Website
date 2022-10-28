@@ -8,5 +8,5 @@ url: 'https://www.mathnasium.com/'
 ---
 
 - Scheduled meetings and hours for tutors in training to help them develop into strong teachers
-- Taught young kids and teens in my town math concepts
-- Made STEM a more approachable field by demonstrating that math can be simple, engaging, and fun
+- Taught math concepts to young kids and teens in my town
+- Made STEM a more approachable subject by demonstrating that math can be simple, engaging, and fun

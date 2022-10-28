@@ -7,4 +7,4 @@ external: ''
 showInProjects: true
 ---
 
-Selected to speak with and learn from my towns mayor in weekly meetings to become a great leader.
+Selected to speak with and learn from my town's mayor in weekly meetings to become a great leader.
