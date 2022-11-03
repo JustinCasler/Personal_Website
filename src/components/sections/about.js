@@ -143,9 +143,10 @@ const About = () => {
               As far back as I can remember, I've always enjoyed the challenge of puzzles. I started
               drawing mazes in kindergarten, learned to solve Rubik's Cubes &lt; 30s in elementary
               school, spent many hours playing chess on the computer in middle school, and I've
-              recently been addicted to Wordle ( <em> my avg guesses is not very impressive </em>).
-              That led me to my career as a software engineer and computer science and physics
-              major, where I'm constantly solving puzzles.
+              recently been addicted to Wordle ({' '}
+              <em> my avg # of guesses is not very impressive </em>). That led me to my career as a
+              software engineer and computer science and physics major, where I'm constantly solving
+              puzzles.
             </p>
 
             <p>

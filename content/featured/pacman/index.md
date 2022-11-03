@@ -2,7 +2,7 @@
 date: '1'
 title: 'Pacman AI'
 cover: './pacman.png'
-github: ''
+github: 'https://github.com/JustinCasler/Pac-Man'
 external: ''
 tech:
   - Python
