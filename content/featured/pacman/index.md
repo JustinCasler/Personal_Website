@@ -3,7 +3,7 @@ date: '1'
 title: 'Pacman AI'
 cover: './pacman.png'
 github: 'https://github.com/JustinCasler/Pac-Man'
-external: ''
+external: 'https://github.com/JustinCasler/Pac-Man'
 tech:
   - Python
   - AI techniques
