@@ -7,6 +7,6 @@ range: 'June 2019 - March 2021'
 url: 'https://www.mathnasium.com/'
 ---
 
-- Scheduled meetings and hours for tutors in training to help them develop into strong teachers
+- Managed the development of tutors in training to help them grow into strong teachers
 - Taught math concepts to young kids and teens in my town
 - Made STEM a more approachable subject by demonstrating that math can be simple, engaging, and fun
