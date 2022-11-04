@@ -265,7 +265,7 @@ const Projects = () => {
 
   return (
     <StyledProjectsSection>
-      <h2 ref={revealTitle}>Awards I've Recieved</h2>
+      <h2 ref={revealTitle}>Awards I've Received</h2>
 
       <ul className="projects-grid">
         {prefersReducedMotion ? (
