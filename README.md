@@ -10,4 +10,4 @@
 
 This is my [personal website](https://justincasler.com/). Developed using gatsby for the purpose of describing my work history and highlighting my talents for those who are interested.
 
-Thanks to to @brittanychiang for the theme starter!
+Thanks to to @dchang for the theme starter!
