@@ -10,4 +10,11 @@
 
 This is my [personal website](https://justincasler.com/). Developed using gatsby for the purpose of describing my work history and highlighting my talents for those who are interested.
 
+
+Details on maintaining: 
+- Make changes
+- Commit and push to main branch
+- npm run deploy to publish changes
+
+  
 Thanks to to @dchang for the theme starter!
