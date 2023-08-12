@@ -64,8 +64,8 @@ const Hero = () => {
   const four = (
     <>
       <p>
-        I’m a software engineer specializing in backend development and building elegant, performant
-        code.
+        I’m a software engineer specializing in fullstack development and building elegant,
+        performant code.
       </p>
     </>
   );

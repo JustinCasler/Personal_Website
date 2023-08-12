@@ -1,5 +1,5 @@
 ---
-date: '2'
+date: '3'
 title: 'Crossword Web App'
 cover: './crossword.png'
 github: 'https://github.com/JustinCasler/WesCrossWord'
