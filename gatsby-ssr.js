@@ -1,3 +1,4 @@
+/*
 import React from 'react';
 
 export const onRenderBody = ({ setHeadComponents }) => {
@@ -15,3 +16,4 @@ export const onRenderBody = ({ setHeadComponents }) => {
     />,
   ]);
 };
+*/
