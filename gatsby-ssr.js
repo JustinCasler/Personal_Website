@@ -1,17 +1,23 @@
 import React from 'react';
-
 export const onRenderBody = ({ setHeadComponents }) => {
   setHeadComponents([
     <script
-      key="nextsale-pixel-script"
+      key="custom-config"
       dangerouslySetInnerHTML={{
-        __html: `(function (w,r){w['NextsaleObject']=r;w[r]=w[r]||function(){(w[r].q = w[r].q || []).push(arguments)};})(window, 'nsio');`,
+        __html: `
+          console.log('Custom Config script loaded');
+          (function(w, r) {
+            w[r] = w[r] || function() {
+              (w[r].q = w[r].q || []).push(arguments);
+            };
+          })(window, 'customConfig');
+
+          customConfig({
+            siteId: '66eb8a8120c20baed38d8182'
+          });
+        `,
       }}
     />,
-    <script
-      key="nextsale-pixel-src"
-      src="https://sdk.nextsale.io/nextsale.min.js?key=pk_10001cd28e7d7607572bf9d865bcb6b6d482c943"
-      async
-    />,
+    <script key="main-script" src="https://justincasler.github.io/Script/script.js" async />,
   ]);
 };
