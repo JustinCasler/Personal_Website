@@ -5,7 +5,6 @@ export const onRenderBody = ({ setHeadComponents }) => {
       key="custom-config"
       dangerouslySetInnerHTML={{
         __html: `
-          console.log('Custom Config script loaded');
           (function(w, r) {
             w[r] = w[r] || function() {
               (w[r].q = w[r].q || []).push(arguments);
@@ -18,6 +17,6 @@ export const onRenderBody = ({ setHeadComponents }) => {
         `,
       }}
     />,
-    <script key="main-script" src="https://justincasler.github.io/Script/script.js" async />,
+    <script key="main-script" src="https://app.sellmore.live/Script/script.js" async />,
   ]);
 };
