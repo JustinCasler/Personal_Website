@@ -17,6 +17,6 @@ export const onRenderBody = ({ setHeadComponents }) => {
         `,
       }}
     />,
-    <script key="main-script" src="https://app.sellmore.live/Script/script.js" async />,
+    <script key="main-script" src="https://app.sellmore.live/scripts/script.js" async />,
   ]);
 };
