@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://justincasler.com/sitemap.xml
+Sitemap: https://justincasler.com/sitemap-index.xml
 Host: https://justincasler.com
