@@ -15,4 +15,5 @@ Details on maintaining:
 - Add, commit and push to main branch
 - npm run deploy to publish changes
 
+if ReadableStream error change node version to 18 using nvm use 18
 Thanks to to @dchang for the theme starter!
